@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">skills i learned so far:</h2>
+<h2 align="left">Skills I learned so far:</h2>
 
 ###
 
