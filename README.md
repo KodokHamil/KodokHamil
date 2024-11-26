@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Andrya Muhammad Naufal and I'm a Computer Engineer, from Institut Teknologi Sepuluh Nopember</p>
+<p align="left">My name is Andrya Muhammad Naufal and I'm a Computer Engineer from Institut Teknologi Sepuluh Nopember</p>
 
 ###
 
