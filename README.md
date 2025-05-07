@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently learning LSTM Machine Learning and Cloud Development<br>🎯 Goals: Completing Capstone and my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
+<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently learning LSTM Machine Learning and Cloud Development<br>🎯 Goals: Completing my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
 
 ###
 
