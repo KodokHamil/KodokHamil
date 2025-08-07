@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently learning LSTM Machine Learning and Cloud Development<br>🎯 Goals: Completing my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
+<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently using as a my skill as a Web Dev for the internship im doing at LRS <br>🎯 Goals: Completing my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Andrya Muhammad Naufal and I'm a Computer Engineer from Institut Teknologi Sepuluh Nopember</p>
+<p align="left">My name is Andrya Muhammad Naufal and I'm a Computer Engineer Fresh Graduate from Institut Teknologi Sepuluh Nopember</p>
 
 ###
 
