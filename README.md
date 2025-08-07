@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently using as a my skill as a Web Dev for the internship im doing at LRS <br>🎯 Goals: Completing my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
+<p align="left">✨ I'm intrested in Web Development<br>📚 I'm currently applying my skill as a Web Dev to the internship project im doing at LRS <br>🎯 Goals: Completing my Major<br>🎲 Fun fact: deadline motivate me and scare me at the same time</p>
 
 ###
 
